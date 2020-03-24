@@ -1,0 +1,29 @@
+{
+  "name": "chatkita",
+  "version": "1.0.0",
+  "description": "This apps, using websocket for making app for doing real time chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reynaldiRepo/WebsoketChatApp.git"
+  },
+  "keywords": [
+    "Websocket"
+  ],
+  "author": "Reynaldi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reynaldiRepo/WebsoketChatApp/issues"
+  },
+  "homepage": "https://github.com/reynaldiRepo/WebsoketChatApp#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
